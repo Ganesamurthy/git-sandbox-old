@@ -1,0 +1,3 @@
+Adding some text
+
+Committing the changes from the my-project directory.
