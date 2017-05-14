@@ -4,4 +4,6 @@ Change is for the next commit!
 
 To persist the changes directly withput putting changes in staging area
 
-Adding some more changes for the next commit. 
+Adding some more changes for the next commit.
+
+Adding few more changes to repo without moving to staging area
