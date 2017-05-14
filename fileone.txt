@@ -1,1 +1,3 @@
-The first commit to the file one. 
+The first commit to the file one.
+
+Change is for the next commit!
