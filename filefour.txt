@@ -1,2 +1,6 @@
+
 Working on a feature and in the middle i want to merge the changes from the bug_fix branch
+
+
+fixed a bug and commiting in bugfix branch
 
