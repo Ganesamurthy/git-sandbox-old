@@ -3,3 +3,5 @@ The first commit to the file one.
 Change is for the next commit!
 
 To persist the changes directly withput putting changes in staging area
+
+Adding some more changes for the next commit. 
