@@ -12,4 +12,8 @@ Adding the changes from the original repo..!!!
 
 Adding few more changes
 
+<<<<<<< Updated upstream
 Adding changes..!!
+=======
+Adding the changes....!!
+>>>>>>> Stashed changes
