@@ -1,3 +1,5 @@
 Adding text to check the commit amending.
 
 Amending one more time..!
+
+Adding some changes in the master branch
